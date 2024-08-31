@@ -1,0 +1,14 @@
+C:\Users\madra\DesafioTargetEstagio\bin\Debug\net8.0\DesafioTargetEstagio.exe
+C:\Users\madra\DesafioTargetEstagio\bin\Debug\net8.0\DesafioTargetEstagio.deps.json
+C:\Users\madra\DesafioTargetEstagio\bin\Debug\net8.0\DesafioTargetEstagio.runtimeconfig.json
+C:\Users\madra\DesafioTargetEstagio\bin\Debug\net8.0\DesafioTargetEstagio.dll
+C:\Users\madra\DesafioTargetEstagio\bin\Debug\net8.0\DesafioTargetEstagio.pdb
+C:\Users\madra\DesafioTargetEstagio\obj\Debug\net8.0\DesafioTargetEstagio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madra\DesafioTargetEstagio\obj\Debug\net8.0\DesafioTargetEstagio.AssemblyInfoInputs.cache
+C:\Users\madra\DesafioTargetEstagio\obj\Debug\net8.0\DesafioTargetEstagio.AssemblyInfo.cs
+C:\Users\madra\DesafioTargetEstagio\obj\Debug\net8.0\DesafioTargetEstagio.csproj.CoreCompileInputs.cache
+C:\Users\madra\DesafioTargetEstagio\obj\Debug\net8.0\DesafioTargetEstagio.dll
+C:\Users\madra\DesafioTargetEstagio\obj\Debug\net8.0\refint\DesafioTargetEstagio.dll
+C:\Users\madra\DesafioTargetEstagio\obj\Debug\net8.0\DesafioTargetEstagio.pdb
+C:\Users\madra\DesafioTargetEstagio\obj\Debug\net8.0\DesafioTargetEstagio.genruntimeconfig.cache
+C:\Users\madra\DesafioTargetEstagio\obj\Debug\net8.0\ref\DesafioTargetEstagio.dll
